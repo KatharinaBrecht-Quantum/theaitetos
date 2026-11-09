@@ -2,6 +2,15 @@
 
 The underlying source code of this package is officially hosted and verified on CRAN. 
 
+```text
+============================================================================
+                ++ [ T h e  _  A I  _  t e t o s ]
+                   ANCIENT INTELLIGENCE ENGINE
+----------------------------------------------------------------------------
+                     Katharina Maria Brecht (2026)
+============================================================================
+```
+
 ### 📖 Official Package Documentation & Vignettes
 
 Please view the fully rendered, official package vignettes and documentation directly on the Comprehensive R Archive Network (CRAN):
