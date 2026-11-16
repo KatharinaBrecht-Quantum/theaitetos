@@ -47,3 +47,8 @@ demo("demo_hologram", package = "theaitetos")
 ## Acknowledgments
 
 Dedicated to the source continuum of science and the shared code of thought that unites us across cosmic scales.
+
+---
+
+<sub>*Licensed under GPL-3.0 — Copyright (C) 2026 Katharina Maria Brecht (ORCID: 0009-0001-2176-7476).*</sub>
+
